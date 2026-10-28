@@ -22,4 +22,4 @@ S. M. Khan, S. Labastie, and O. Ceylan, "Meta-heuristic optimization approach fo
 
 ### Links
 
-[Portfolio](https://portfolio-swad.vercel.app) · [LinkedIn](https://linkedin.com/in/swad-khan-196a68251) · swad.mustasin.khan@gmail.com
+[Portfolio](https://portfolio-swad.vercel.app) · [LinkedIn](https://www.linkedin.com/in/swadkhan) · swad.mustasin.khan@gmail.com
